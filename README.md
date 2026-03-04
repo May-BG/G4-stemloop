@@ -22,6 +22,8 @@ sbatch intersect_g4_stemloop_subsets_human.sh "/storage/home/xmz5176/newgroup/da
 sbatch intersect_g4_stemloop_subsets_human.sh "/storage/home/xmz5176/newgroup/data/G4/T2T/autosomal/map_g4_human_complete/unique_g4" \
 sbatch intersect_g4_stemloop_subsets_human.sh "/storage/home/xmz5176/newgroup/data/G4/T2T/autosomal/map_g4_human_complete/disappear_g4" \
 
+
 ## 3 HKA test and visualization
+Rscript HKA_test_fig3_4.R
 
 ## 4 PhyloFit test
